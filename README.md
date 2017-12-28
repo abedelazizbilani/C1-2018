@@ -4,6 +4,6 @@ Presentation C1 : Web Semantique
 * introduction 
 * les languages du web semantique
 * donnees et annotations dans le web sematique
-* les web services semantique
+* les web services en web semantique
 * applications 
 * conclusion
